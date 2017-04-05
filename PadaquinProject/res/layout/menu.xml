@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    <TextView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Padaquin"
+        android:textSize="40dp"
+        android:typeface="normal"
+        android:textColor="#f0f0f0"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="40dp"/>
+    <TextView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Quiniela"
+        android:textSize="30dp"
+        android:typeface="normal"
+        android:textColor="#f0f0f0"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="40dp"
+        style="@style/AppTheme"/>"
+    <TextView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Survival"
+        android:textSize="30dp"
+        android:typeface="normal"
+        android:textColor="#f0f0f0"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp"
+        android:drawableTop="#f0f0f0"
+        android:drawableBottom="#f0f0f0"
+        style="@style/AppTheme"/>
+    <TextView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ligas"
+        android:textSize="30dp"
+        android:typeface="normal"
+        android:textColor="#f0f0f0"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp"
+        style="@style/AppTheme"/>
+    
+    
+
+</LinearLayout>

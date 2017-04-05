@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PadaquinAPP</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="login">LOGIN</string>
+    <string name="to">TO</string>
+    <string name="your">YOUR ACCOUNT</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="sign">SignIn</string>
+    <string name="forgot">Forgot Password?</string>
+    <string name="umal">Username cannot be empty</string>
+    <string name="cmal">Password cannot be empty</string>
+
+</resources>

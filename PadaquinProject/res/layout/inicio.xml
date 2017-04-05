@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    style="@style/Inic">"
+    
+     <ImageView
+	    android:src="@drawable/menu"
+	    android:layout_width="150dp"
+	    android:layout_height="150dp"
+	    android:id="@+id/men"
+	    android:contentDescription="menu" 
+	    android:layout_marginTop="-30dp"
+	    android:layout_marginBottom="-30dp"/>
+    
+    <ImageView
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:contentDescription="logo"
+	    android:src="@drawable/usua" 
+	    android:layout_marginTop="0dp"/>
+    
+    <TextView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Agent 007"
+        android:textSize="40dp"
+        android:typeface="normal"
+        android:id="@+id/txtview"
+        android:textColor="#f0f0f0"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp"/>
+
+    <SurfaceView
+        android:id="@+id/surface"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" 
+        android:layout_marginTop="20dp"/>
+
+</LinearLayout>

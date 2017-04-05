@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PadaquinAPP</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="login">ENTREZ</string>
+    <string name="to">VOTRE</string>
+    <string name="your">COMPTE</string>
+    <string name="username">Nombre</string>
+    <string name="password">Mot de passe</string>
+    <string name="sign">Entrer</string>
+    <string name="forgot">Vous avez oublié votre mot de passe?</string>
+    <string name="umal">Vous devez entrer un nom</string>
+    <string name="cmal">Vous devez entrer une mot de passe</string>
+
+</resources>
